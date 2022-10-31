@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more-inf {
+.header .more-inf-link {
   font-family: fantasy, cursive;
   text-decoration: none;
   color: black;
@@ -70,7 +70,7 @@ button {
 }
 
 button:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 
 /* Heading */
@@ -91,7 +91,7 @@ input[type="text"] {
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
+  border: 1px solid #ddd;
   background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
